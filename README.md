@@ -7,9 +7,11 @@ objective.
 The purpose of this project is to allow the user to see the weather outlook for multiple cities. first, when a user search for a city,
 the user will be presented with current and future conditions for that city and that city is added to the search history.next, the user will see current weather conditions for that city and the user is  presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index. also, the user will view the UV index that will be presented with a color that indicates whether the conditions are favorable, moderate, or severe . in addition, after viewed the  future weather conditions for that city, the user will be presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity. futhermore, the user will  click on a city in the search history and again be presented with current and future conditions for that city.At the end,after the user opened the weather dashboard, the user will be  presented with the last searched city forecast. from this project, I learned that I can use jquery code, css , Html, api key  to build a a weather dashboard. I build  a weather dashboard application to allowed any person to to see the weather outlook for multiple cities. 
 
-you may click on the link bellow to see the project in activation :
+you may click on the link bellow to see the project in activation :https://papy1974.github.io/h6_weather-/
 
-installation. In order to use the project the following software must be installed in your computer. Git bash, and visual studio that can be done in a lap top or a mac. Git can be download from the fallowing link: https://git-scm.com/download/win, and here is the link for downloading visual studio: visualstudio.microsoft.com. It's better to use windows 10 while using the project. both Git bash and visual studio will allow the user the have access to the codes that help to build a project.
+installation.
+
+In order to use the project the following software must be installed in your computer. Git bash, and visual studio that can be done in a lap top or a mac. Git can be download from the fallowing link: https://git-scm.com/download/win, and here is the link for downloading visual studio: visualstudio.microsoft.com. It's better to use windows 10 while using the project. both Git bash and visual studio will allow the user the have access to the codes that help to build a project.
 
 example usage.
 
