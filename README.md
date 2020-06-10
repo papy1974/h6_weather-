@@ -9,6 +9,8 @@ the user will be presented with current and future conditions for that city and 
 
 you may click on the link bellow to see the project in activation :https://papy1974.github.io/h6_weather-/
 
+![dashboard](https://user-images.githubusercontent.com/58053159/84220835-ce8c9e00-aaa1-11ea-95cf-b4922d0cb356.png)
+
 installation.
 
 In order to use the project the following software must be installed in your computer. Git bash, and visual studio that can be done in a lap top or a mac. Git can be download from the fallowing link: https://git-scm.com/download/win, and here is the link for downloading visual studio: visualstudio.microsoft.com. It's better to use windows 10 while using the project. both Git bash and visual studio will allow the user the have access to the codes that help to build a project.
