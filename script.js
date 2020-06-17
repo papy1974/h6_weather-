@@ -3,7 +3,7 @@ var searchButton = $(".searchButton");
 
 var apiKey = "b8ecb570e32c2e5042581abd004b71bb";
 
-// Forloop for persisting the data onto HMTL page
+// create a Forloop for persisting the data onto HMTL page
 for (var i = 0; i < localStorage.length; i++) {
 
     var city = localStorage.getItem(i);
