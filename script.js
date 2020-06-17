@@ -83,7 +83,7 @@ searchButton.click(function () {
             url: urlFiveDay,
             method: "GET"
         }).then(function (response) {
-            // Array for 5-days 
+            // create Array for 5-days 
             var day = [0, 8, 16, 24, 32];
             var fiveDayCard = $(".fiveDayCard").addClass("card-body");
             var fiveDayDiv = $(".fiveDayOne").addClass("card-text");
