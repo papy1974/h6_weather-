@@ -78,7 +78,7 @@ searchButton.click(function () {
 
         });
 
-        // Start call for 5-day forecast 
+        // Start call for 5-day forecast by using ajax. 
         $.ajax({
             url: urlFiveDay,
             method: "GET"
