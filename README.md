@@ -1,4 +1,4 @@
-title.
+Title.
 
 The project is named day Weather-Dashboard that allowed the user to see the weather outlook for multiple cities.
 
@@ -6,7 +6,7 @@ objective.
 
 Languages and Tools used:
 
-html,JavaScript,CSS,jQuery,Bootstrap, git.
+HTML, CSS, JavaScript, jQuery, Bootstrap, API, Ajax
 
 
 The purpose of this project is to allow the user to see the weather outlook for multiple cities. first, when a user search for a city,
