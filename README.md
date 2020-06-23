@@ -4,6 +4,11 @@ The project is named day Weather-Dashboard that allowed the user to see the weat
 
 objective.
 
+Languages and Tools used:
+
+html,JavaScript,CSS,jQuery,Bootstrap, git.
+
+
 The purpose of this project is to allow the user to see the weather outlook for multiple cities. first, when a user search for a city,
 the user will be presented with current and future conditions for that city and that city is added to the search history.next, the user will see current weather conditions for that city and the user is  presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index. also, the user will view the UV index that will be presented with a color that indicates whether the conditions are favorable, moderate, or severe . in addition, after viewed the  future weather conditions for that city, the user will be presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity. futhermore, the user will  click on a city in the search history and again be presented with current and future conditions for that city.At the end,after the user opened the weather dashboard, the user will be  presented with the last searched city forecast. from this project, I learned that I can use jquery code, css , Html, api key  to build a a weather dashboard. I build  a weather dashboard application to allowed any person to to see the weather outlook for multiple cities. 
 
