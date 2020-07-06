@@ -1,34 +1,36 @@
-Title.
+# Title.
 
-The project is named day Weather-Dashboard that allowed the user to see the weather outlook for multiple cities.
+The project is named day Weather-Dashboard which allowed the user to see the weather outlook for multiple cities.
 
-objective.
-
-Languages and Tools used:
+# Languages and Tools used:
 
 HTML, CSS, JavaScript, jQuery, Bootstrap, API, Ajax
 
 
-The purpose of this project is to allow the user to see the weather outlook for multiple cities. first, when a user search for a city,
-the user will be presented with current and future conditions for that city and that city is added to the search history.next, the user will see current weather conditions for that city and the user is  presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index. also, the user will view the UV index that will be presented with a color that indicates whether the conditions are favorable, moderate, or severe . in addition, after viewed the  future weather conditions for that city, the user will be presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity. futhermore, the user will  click on a city in the search history and again be presented with current and future conditions for that city.At the end,after the user opened the weather dashboard, the user will be  presented with the last searched city forecast. from this project, I learned that I can use jquery code, css , Html, api key  to build a a weather dashboard. I build  a weather dashboard application to allowed any person to to see the weather outlook for multiple cities. 
+# Objective and Description. 
 
-you may click on the link bellow to see the project in activation :https://papy1974.github.io/h6_weather-/
+
+
+The purpose of this project is to allow the user to see the weather outlook for multiple cities. first, when a user searches for a city,
+the user will be presented with current and future conditions for that city and that city is added to the search history. next, the user will see current weather conditions for that city, and the user is presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index. also, the user will view the UV index that will be presented with a color that indicates whether the conditions are favorable, moderate, or severe. besides, after viewed the future weather conditions for that city, the user will be presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity. furthermore, the user will click on a city in the search history and again be presented with current and future conditions for that city. In the end, after the user opened the weather dashboard, the user will be presented with the last searched city forecast. from this project, I learned that I can use jquery code, CSS, Html, API key to build a weather dashboard. I build a weather dashboard application to allowed any person to see the weather outlook for multiple cities. 
+
+you may click on the link below to see the project activation:https://papy1974.github.io/h6_weather-/
 
 ![dashboard](https://user-images.githubusercontent.com/58053159/84220835-ce8c9e00-aaa1-11ea-95cf-b4922d0cb356.png)
 
-installation.
+# Installation.
 
-In order to use the project the following software must be installed in your computer. Git bash, and visual studio that can be done in a lap top or a mac. Git can be download from the fallowing link: https://git-scm.com/download/win, and here is the link for downloading visual studio: visualstudio.microsoft.com. It's better to use windows 10 while using the project. both Git bash and visual studio will allow the user the have access to the codes that help to build a project.
+To use the project the following software must be installed on your computer. Git Bash, and visual studio that can be done on a laptop or a mac. Git can be download from the following link: https://git-scm.com/download/win, and here is the link for downloading visual studio: visualstudio.microsoft.com. It's better to use windows 10 while using the project. both Git bash and visual studio will allow the user the have access to the codes that help to build a project.
 
-example usage.
+# Example usage.
 
-After forking and cloning the project repertory from Github, the following code can be type in git bash to view the project codes and files: git clone fallow by the project name(press paste), cd fallow by project name, and type code space period key. once the visual studio is launched, click right and select delfault browser to open site in action. click inside each row to enter the event, save it and move to the next.At the end, refresh the page.
+After forking and cloning the project repertory from Github, the following code can be typed in git bash to view the project codes and files: git clone fallow by the project name(press paste), cd fallow by project name, and type code space period key. once the visual studio is launched, click right and select the default browser to open the site in action. Click inside each row to enter the event, save it, and move to the next. In the end, refresh the page.
 
-Environment.
+# Environment.
 
-I am excpeting my project to be pulled by other developer in order to make some suggestions on some block of codes and send me feedback .I can also be contacted by emails:papylotomba@yahoo.fr
+I am expecting my project to be pulled by other developers to make some suggestions on some block of codes and send me feedback. I can also be contacted by emails:papylotomba@yahoo.fr
 
-license and copyright.
+# License and Copyright.
 
 MIT License
 
